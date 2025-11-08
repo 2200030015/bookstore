@@ -1,9 +1,32 @@
-# 📚 Library Management System
+<!-- PROJECT BANNER -->
+<p align="center">
+  <img src="https://github.com/2200030015/bookstore/blob/main/src/main/resources/static/images/banner.png" alt="Library Management System Banner" width="800"/>
+</p>
 
-A full-stack web application built to manage and automate library operations such as book registration, user management, issue/return tracking, and payment handling. This project aims to simplify library workflows and enhance the experience for both administrators and readers.
+<h1 align="center">📚 Library Management System</h1>
 
-# 🏗️ Project Structure
-``bash
+<p align="center">
+  A full-stack web application built to manage and automate library operations such as book registration, user management, issue/return tracking, and payment handling.<br>
+  This project simplifies library workflows and enhances the experience for both administrators and readers.
+</p>
+
+---
+
+## 🏷️ Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-17-orange?logo=openjdk&logoColor=white" alt="Java 17"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-3.0-brightgreen?logo=springboot" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/MySQL-Database-blue?logo=mysql" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Build-Maven-red?logo=apachemaven" alt="Maven"/>
+  <img src="https://img.shields.io/badge/Frontend-Thymeleaf%2C%20HTML%2C%20CSS-yellow" alt="Frontend"/>
+  <img src="https://img.shields.io/github/license/2200030015/bookstore?color=purple" alt="License"/>
+</p>
+
+---
+
+## 🏗️ Project Structure
+```bash
 library-management-system/
 ├── src/
 │   ├── main/
@@ -32,6 +55,7 @@ library-management-system/
 ├── target/                         # Compiled files
 ├── pom.xml                         # Maven dependencies
 └── README.md
+
 
 # ✨ Features
 📖 Book Management — Add, edit, delete, and view books.
