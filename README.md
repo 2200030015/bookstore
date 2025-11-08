@@ -2,16 +2,6 @@
 
 A full-stack web application built to manage and automate library operations such as book registration, user management, issue/return tracking, and payment handling. This project aims to simplify library workflows and enhance the experience for both administrators and readers.
 
-# ✨ Features
-📖 Book Management — Add, edit, delete, and view books.
-👥 User Management — Register, login, and manage user profiles.
-🛒 Book Issue & Return System — Track borrowed and returned books.
-💳 Payment Module — Integrated payment page for late fees or subscriptions.
-📷 Image Handling — Store and display book or user images.
-🔐 Authentication — Secure login and registration.
-🧭 Responsive UI — Built with HTML, CSS, and Thymeleaf templates.
-⚙️ Spring Boot Backend — RESTful API with service and repository layers.
-🗄️ Database Integration — MySQL database for persistent storage.
 
 ## 🏗️ Project Structure
 ```bash
@@ -44,6 +34,16 @@ library-management-system/
 ├── pom.xml                         # Maven dependencies
 └── README.md
 
+# ✨ Features
+📖 Book Management — Add, edit, delete, and view books.
+👥 User Management — Register, login, and manage user profiles.
+🛒 Book Issue & Return System — Track borrowed and returned books.
+💳 Payment Module — Integrated payment page for late fees or subscriptions.
+📷 Image Handling — Store and display book or user images.
+🔐 Authentication — Secure login and registration.
+🧭 Responsive UI — Built with HTML, CSS, and Thymeleaf templates.
+⚙️ Spring Boot Backend — RESTful API with service and repository layers.
+🗄️ Database Integration — MySQL database for persistent storage.
 
 
 # 🧰 Tech Stack
